@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo... programación
 - 💞️ Busco colaborar en... programación
-- 📫 How to reach me ...
+- 📫 Como contactarme.. ricardoalfonsolongas@gmail.com
 
 <!---
 Ricardo122345/Ricardo122345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
